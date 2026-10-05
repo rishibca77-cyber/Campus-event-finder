@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Campus Event Finder & RSVP platform for college students and event organizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Campus Motif -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L26,38 L54,50 L82,38 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M35,42.5 L35,53 C35,61 43,67 54,67 C65,67 73,61 73,53 L73,42.5 L54,51 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,39.5 L78,54 C78,56 76,57 74,57 C72,57 70,56 70,54 L70,39.5 Z" />
+    
+    <!-- Digital RSVP Ticket Card Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,60 C32,58 34,56 36,56 L72,56 C74,56 76,58 76,60 L76,82 C76,84 74,86 72,86 L36,86 C34,86 32,84 32,82 Z" />
+    
+    <!-- Ticket cutout circles and details -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M32,71 C34,71 35.5,69.5 35.5,68 C35.5,66.5 34,65 32,65 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M76,71 C74,71 72.5,69.5 72.5,68 C72.5,66.5 74,65 76,65 Z" />
+    <!-- Barcode lines on ticket -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M40,61 L43,61 L43,75 L40,75 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M45,61 L46.5,61 L46.5,75 L45,75 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M49,61 L52,61 L52,75 L49,75 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,61 L55.5,61 L55.5,75 L54,75 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M58,61 L61,61 L61,75 L58,75 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M63,61 L64.5,61 L64.5,75 L63,75 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M66,61 L68,61 L68,75 L66,75 Z" />
+
+    <!-- Sparkle / Star Indicator -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,78 L55.5,81.5 L59,82 L56.5,84.5 L57,88 L54,86 L51,88 L51.5,84.5 L49,82 L52.5,81.5 Z" />
+</vector>
