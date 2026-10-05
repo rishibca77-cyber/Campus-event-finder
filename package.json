@@ -1,0 +1,18 @@
+{
+  "name": "campusconnect-event-finder-rsvp",
+  "version": "1.0.0",
+  "description": "CampusConnect — Campus Event Discovery and RSVP Platform",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Vercel build complete'"
+  },
+  "keywords": [
+    "campus",
+    "events",
+    "rsvp",
+    "ticket",
+    "qr-code"
+  ],
+  "author": "CampusConnect Team",
+  "license": "MIT"
+}
